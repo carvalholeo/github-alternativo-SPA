@@ -53,7 +53,7 @@ function UserSearch() {
           />
           <p id="ajudaPesquisa" className="form-text">Você pode pesquisar o nome ou o @ do usuário no GitHub. Em seguida, irá aparecer uma lista com essas informações!</p>
         </fieldset>
-        <button type="submit" className="btn btn-success">Pesquisar</button>
+        <button type="submit" className="btn btn-success">Procurar informações</button>
       </form>
 
       {showLoading &&
